@@ -1,0 +1,226 @@
+[
+  {
+    "_id": 1,
+    "title": "The Great Gatsby",
+    "author": "F. Scott Fitzgerald",
+    "genre": "Classic",
+    "publication_date": "1925",
+    "price": 12.99,
+    "rating": 4.8,
+    "status": true,
+    "features": [
+      "Vivid portrayal of the Jazz Age",
+      "Compelling characters",
+      "Exploration of wealth and disillusionment"
+    ]
+  },
+  {
+    "_id": 2,
+    "title": "To Kill a Mockingbird",
+    "author": "Harper Lee",
+    "genre": "Fiction",
+    "publication_date": "1960",
+    "price": 10.99,
+    "status": true,
+    "rating": 4.9,
+    "features": [
+      "Deep exploration of racism and justice",
+      "Memorable characters",
+      "Strong narrative voice"
+    ]
+  },
+  {
+    "_id": 3,
+    "title": "1984",
+    "author": "George Orwell",
+    "genre": "Dystopian",
+    "publication_date": "1949",
+    "price": 9.99,
+    "status": false,
+    "rating": 4.7,
+    "features": [
+      "Dystopian society",
+      "Surveillance and totalitarianism",
+      "Exploration of power and control"
+    ]
+  },
+  {
+    "_id": 4,
+    "title": "Pride and Prejudice",
+    "author": "Jane Austen",
+    "genre": "Romance",
+    "publication_date": "1813",
+    "price": 8.99,
+    "status": true,
+    "rating": 4.6,
+    "features": [
+      "Captivating love story",
+      "Social commentary",
+      "Witty and engaging dialogue"
+    ]
+  },
+  {
+    "_id": 5,
+    "title": "The Catcher in the Rye",
+    "author": "J.D. Salinger",
+    "genre": "Coming-of-age",
+    "publication_date": "1951",
+    "price": 11.99,
+    "status": false,
+    "rating": 4.3,
+    "features": [
+      "Profound coming-of-age story",
+      "Candid exploration of teenage alienation",
+      "Distinct narrative voice"
+    ]
+  },
+  {
+    "_id": 6,
+    "title": "To the Lighthouse",
+    "author": "Virginia Woolf",
+    "genre": "Modernist",
+    "publication_date": "1927",
+    "price": 9.99,
+    "status": false,
+    "rating": 4.5,
+    "features": [
+      "Stream-of-consciousness narrative",
+      "Exploration of human perception and relationships",
+      "Lyrical and experimental prose"
+    ]
+  },
+  {
+    "_id": 7,
+    "title": "Moby-Dick",
+    "author": "Herman Melville",
+    "genre": "Adventure",
+    "publication_date": "1851",
+    "price": 12.99,
+    "status": true,
+    "rating": 4.2,
+    "features": [
+      "Epic adventure at sea",
+      "Symbolism and allegory",
+      "In-depth exploration of human nature"
+    ]
+  },
+  {
+    "_id": 8,
+    "title": "The Lord of the Rings",
+    "author": "J.R.R. Tolkien",
+    "genre": "Fantasy",
+    "publication_date": "1954-1955",
+    "price": 15.99,
+    "rating": 4.9,
+    "features": [
+      "Epic fantasy adventure",
+      "Richly developed world and mythology",
+      "Themes of friendship, heroism, and sacrifice"
+    ]
+  },
+  {
+    "_id": 9,
+    "title": "Frankenstein",
+    "author": "Mary Shelley",
+    "genre": "Gothic",
+    "publication_date": "1818",
+    "price": 8.99,
+    "status": true,
+    "rating": 4.4,
+    "features": [
+      "Iconic Gothic tale",
+      "Ethical questions about science and creation",
+      "Narrative structure and multiple perspectives"
+    ]
+  },
+  {
+    "_id": 10,
+    "title": "The Odyssey",
+    "author": "Homer",
+    "genre": "Epic",
+    "publication_date": "8th century BC",
+    "price": 7.99,
+    "status": true,
+    "rating": 4.6,
+    "features": [
+      "Classic Greek epic",
+      "Heroic journey and mythological elements",
+      "Exploration of themes like honor, homecoming, and temptation"
+    ]
+  },
+  {
+    "_id": 11,
+    "title": "Brave New World",
+    "author": "Aldous Huxley",
+    "genre": "Dystopian",
+    "publication_date": "1932",
+    "price": 10.99,
+    "status": false,
+    "rating": 4.4,
+    "features": [
+      "Dystopian future society",
+      "Social conditioning and loss of individuality",
+      "Critique of consumerism and technological control"
+    ]
+  },
+  {
+    "_id": 12,
+    "title": "The Hobbit",
+    "author": "J.R.R. Tolkien",
+    "genre": "Fantasy",
+    "publication_date": "1937",
+    "price": 9.99,
+    "status": false,
+    "rating": 4.7,
+    "features": [
+      "Fantasy quest",
+      "Engaging and endearing characters",
+      "World-building and rich mythology"
+    ]
+  },
+  {
+    "_id": 13,
+    "title": "Jane Eyre",
+    "author": "Charlotte Bronte",
+    "genre": "Gothic",
+    "publication_date": "1847",
+    "price": 8.99,
+    "status": true,
+    "rating": 4.5,
+    "features": [
+      "Compelling bildungsroman",
+      "Feminist themes",
+      "Complex characters and moral dilemmas"
+    ]
+  },
+  {
+    "_id": 14,
+    "title": "The Alchemist",
+    "author": "Paulo Coelho",
+    "genre": "Fiction",
+    "publication_date": "1988",
+    "price": 11.99,
+    "status": true,
+    "rating": 4.3,
+    "features": [
+      "Spiritual journey and self-discovery",
+      "Themes of destiny and personal legend",
+      "Simplicity and poetic language"
+    ]
+  },
+  {
+    "_id": 15,
+    "title": "The Chronicles of Narnia",
+    "author": "C.S. Lewis",
+    "genre": "Fantasy",
+    "publication_date": "1950-1956",
+    "price": 14.99,
+    "status": false,
+    "rating": 4.6,
+    "features": [
+      "Imaginative fantasy world",
+      "Christian allegory and moral themes",
+      "Adventure and memorable characters"
+    ]
+  }
+]
